@@ -47,4 +47,4 @@ The arm was driven from a PC through a U2D2 interface.
 SolidWorks · MATLAB · 3D printing (PLA) · DYNAMIXEL servos · U2D2
 
 ---
-Kimberly Nweze · [Portfolio](https://kimberlysonweze.github.io) · BEng Robotic Engineering, Queen Mary University of London
+Kimberly Nweze · [Portfolio](https://kimberlysonweze.github.io/kimberlynweze.github.io/) · BEng Robotic Engineering, Queen Mary University of London
